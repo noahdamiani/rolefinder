@@ -1,4 +1,4 @@
-# RoleCollector
+# rolefinder
 
 Configure the tool by editing the config located at app/config:
 
